@@ -1,0 +1,31 @@
+.tab-ele {
+  width: 150px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: #f8f8ff;
+  padding: 10px;
+  margin: 10px;
+}
+.name {
+  font-size: medium;
+  color: #e73959;
+  margin-bottom: -5px;
+}
+.stars {
+  font-size: small;
+  margin-bottom: -10px;
+}
+.forks {
+  font-size: small;
+  margin-bottom: -10px;
+}
+.issues {
+  font-size: small;
+  margin-bottom: -10px;
+}
+.logo {
+  height: 12px;
+  margin-right: 5px;
+}

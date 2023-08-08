@@ -1,0 +1,17 @@
+.list-ele {
+  list-style-type: none;
+  margin: 10px;
+}
+.btn {
+  background-color: transparent;
+  height: 30px;
+  border: none;
+  font-size: large;
+}
+.highLightButton {
+  color: #0284c7;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
+  font-weight: 600;
+}
